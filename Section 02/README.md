@@ -10,31 +10,27 @@
 - HTML Boilerplate
 - How to Structure Text in HTML
 - HTML Doctype
-- <html> Tag
+- HTML Tag
 - HTML Head
 - HTML Meta Tags
 - Charsets and UTF-8
 - HTML Body
 - HTML Headings
 - HTML Paragraph
-- HTML <em> vs <i>
-- HTML <strong> vs <b>
+- HTML em tag vs i tag
+- HTML strong tag vs b tag
 - HTML Closed Tags vs Empty Tags (or Self Closing Tags)
-- HTML Horizontal Rules <hr> and Line Breaks <br>
+- HTML Horizontal Rules and Line Breaks
 - HTML Lists - Ordered & Unordered
 - HTML Image Elements
 - HTML Links & Anchor Tags
 - HTML Attributes
 
-## Demo
-
-Insert gif or link to demo
-
-https://replit.com/@bhoamikhona/password-generator#main.py
 ## Screenshots
 
-![App Screenshot](https://github.com/bhoamikhona/images/blob/main/band%20of%20otters.png?raw=true)
-
+![1](https://user-images.githubusercontent.com/50435319/196865112-3255860d-3cc8-4e17-855b-8743ef0b613b.PNG)
+![2](https://user-images.githubusercontent.com/50435319/196865119-be667e9e-0883-4289-9fd1-acf024b891c9.PNG)
+![3](https://user-images.githubusercontent.com/50435319/196865126-888f88ee-f376-41fb-9283-ed15af589cc4.PNG)
 
 ## Authors
 
