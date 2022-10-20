@@ -26,15 +26,11 @@
 - HTML Links & Anchor Tags
 - HTML Attributes
 
-## Demo
-
-Insert gif or link to demo
-
-https://replit.com/@bhoamikhona/password-generator#main.py
 ## Screenshots
 
-![App Screenshot](https://github.com/bhoamikhona/images/blob/main/band%20of%20otters.png?raw=true)
-
+![1](https://user-images.githubusercontent.com/50435319/196865112-3255860d-3cc8-4e17-855b-8743ef0b613b.PNG)
+![2](https://user-images.githubusercontent.com/50435319/196865119-be667e9e-0883-4289-9fd1-acf024b891c9.PNG)
+![3](https://user-images.githubusercontent.com/50435319/196865126-888f88ee-f376-41fb-9283-ed15af589cc4.PNG)
 
 ## Authors
 
