@@ -10,14 +10,14 @@
 - HTML Boilerplate
 - How to Structure Text in HTML
 - HTML Doctype
-- <html> Tag
+- HTML Tag
 - HTML Head
 - HTML Meta Tags
 - Charsets and UTF-8
 - HTML Body
 - HTML Headings
 - HTML Paragraph
-- HTML <em> vs <i>
+- HTML "<em>" vs "<i>"
 - HTML <strong> vs <b>
 - HTML Closed Tags vs Empty Tags (or Self Closing Tags)
 - HTML Horizontal Rules <hr> and Line Breaks <br>
