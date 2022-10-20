@@ -17,10 +17,10 @@
 - HTML Body
 - HTML Headings
 - HTML Paragraph
-- HTML "<em>" vs "<i>"
-- HTML <strong> vs <b>
+- HTML em tag vs i tag
+- HTML strong tag vs b tag
 - HTML Closed Tags vs Empty Tags (or Self Closing Tags)
-- HTML Horizontal Rules <hr> and Line Breaks <br>
+- HTML Horizontal Rules and Line Breaks
 - HTML Lists - Ordered & Unordered
 - HTML Image Elements
 - HTML Links & Anchor Tags
