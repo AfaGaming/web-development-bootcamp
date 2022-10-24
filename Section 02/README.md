@@ -28,9 +28,9 @@
 
 ## Screenshots
 
-![1](https://user-images.githubusercontent.com/50435319/196865112-3255860d-3cc8-4e17-855b-8743ef0b613b.PNG)
-![2](https://user-images.githubusercontent.com/50435319/196865119-be667e9e-0883-4289-9fd1-acf024b891c9.PNG)
-![3](https://user-images.githubusercontent.com/50435319/196865126-888f88ee-f376-41fb-9283-ed15af589cc4.PNG)
+![1](https://user-images.githubusercontent.com/50435319/197455908-8f83e656-e306-4e12-b258-7c6bf27edd93.PNG)
+![2](https://user-images.githubusercontent.com/50435319/197455915-1c4b4ba6-4311-4f8d-8395-b81d0e160f64.PNG)
+![3](https://user-images.githubusercontent.com/50435319/197455922-b1bdb88f-d36c-4527-b949-6aae2bfbe2dd.PNG)
 
 ## Authors
 
