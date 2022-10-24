@@ -1,7 +1,7 @@
 
-# Section 02 - Introduction to HTML
+# Section 03 - Intermediate HTML
 
-**About:** Drawing inspiration from great names in the world of computer science [Jon Kleinberg](https://www.cs.cornell.edu/home/kleinber/), [Thomas H. Cormen](https://www.cs.dartmouth.edu/~thc/), and [Donald E. Knuth](https://www-cs-faculty.stanford.edu/~knuth/) websites to create my own Personal Site and learn HTML along the way.
+**About:** Further developing the Personal Site from Section 02 and learning more HTML along the way.
 
 ## Lessons Learned
 
