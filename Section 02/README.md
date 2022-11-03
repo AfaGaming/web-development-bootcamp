@@ -3,6 +3,8 @@
 
 **About:** Drawing inspiration from great names in the world of computer science [Jon Kleinberg](https://www.cs.cornell.edu/home/kleinber/), [Thomas H. Cormen](https://www.cs.dartmouth.edu/~thc/), and [Donald E. Knuth](https://www-cs-faculty.stanford.edu/~knuth/) websites to create my own Personal Site and learn HTML along the way.
 
+**Link:** https://bhoamikhona.github.io/web-development-bootcamp/Section%2002/index.html
+
 ## Lessons Learned
 
 - Introduction to HTML
