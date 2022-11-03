@@ -3,6 +3,8 @@
 
 **About:** Further developing the Personal Site from Section 02 and learning more HTML along the way.
 
+**Link:** https://bhoamikhona.github.io/web-development-bootcamp/Section%2003/index.html
+
 ## Lessons Learned
 
 - HTML Tables
