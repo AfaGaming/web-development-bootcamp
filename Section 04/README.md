@@ -25,10 +25,9 @@ Along with updating the previous project with CSS, A cake fansite was also made 
 - CSS selectors - tags, classes, and ids and their precedence
 - CSS pseudo classes
 ## Demo
+Previous Project CSS Update: https://bhoamikhona.github.io/web-development-bootcamp/Section%2004/index.html
+Cake Fansite: https://bhoamikhona.github.io/web-development-bootcamp/Section%2004/cake-fansite.html
 
-Insert gif or link to demo
-
-https://replit.com/@bhoamikhona/password-generator#main.py
 ## Screenshots
 
 ![1](https://user-images.githubusercontent.com/50435319/200749795-e91f64da-dc1f-43a8-b3c7-a19261cb273f.PNG)
