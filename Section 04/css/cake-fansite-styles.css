@@ -1,0 +1,27 @@
+/*****Tag Selectors*****/
+h1 {
+    color: pink;
+    font-size: 200px;
+}
+
+img:hover {
+    background-color: #FFFAD7;
+}
+
+/*****Class Selectors*****/
+.cake {
+    background-color: #FFD1D1;
+}
+
+.cupcake {
+    background-color: #f7a0a0;
+}
+
+.circular {
+    border-radius: 100%;
+}
+
+/*****ID Selectors*****/
+#heading {
+    color: #FF9494;
+}
