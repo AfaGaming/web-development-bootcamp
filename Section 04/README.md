@@ -26,6 +26,7 @@ Along with updating the previous project with CSS, A cake fansite was also made 
 - CSS pseudo classes
 ## Demo
 Previous Project CSS Update: https://bhoamikhona.github.io/web-development-bootcamp/Section%2004/index.html
+
 Cake Fansite: https://bhoamikhona.github.io/web-development-bootcamp/Section%2004/cake-fansite.html
 
 ## Screenshots
