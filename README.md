@@ -1,6 +1,6 @@
 # Web Development Boot Camp
 
-##Sections
+## Sections
 
 [@Section 01: Front-End Web Development](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2001)
 
