@@ -1,7 +1,36 @@
-# The Complete 2022 Web Development Bootcamp
 
-- [Section 01](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2001): Front-End Web Development Introduction
-- [Section 02](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2002): Introduction to HTML
-- [Section 03](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2003): Intermediate HTML
-- [Section 04](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2004): Introduction to CSS
-- [Section 05](): Intermediate CSS
+# Section 05 - Intermediate CSS
+
+**About:** Taking inspiration from a web designer Seán Halpin's Portfolio Web Design and creating my own while learning intermediate CSS concepts.
+
+Seán Halpin's Web Design: https://dribbble.com/shots/994292-Home-Portfolio
+## Lessons Learned
+
+- Favicons
+- HTML div element
+- CSS Box Model
+- CSS margin, Border, Padding
+- CSS Display Property: none, inline, block, inline-block
+- HTML Span Element
+- CSS Visibility Property
+- CSS Positioning: static, relative, absolute, fixed
+- z index
+- CSS text-align Property
+- Font Styling
+- Typography
+- CSS Font Properties: size (px, %, em, rem), color, font-family, text-decoration, line-height 
+- CSS Float & Clear
+## Demo
+
+Insert gif or link to demo
+
+https://replit.com/@bhoamikhona/password-generator#main.py
+## Screenshots
+
+
+
+
+## Authors
+
+- [@bhoamikhona](https://github.com/bhoamikhona)
+
