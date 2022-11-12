@@ -22,10 +22,10 @@ Seán Halpin's Web Design: https://dribbble.com/shots/1287004-Portfolio-Live/att
 
 ## Screenshots
 
-**Link:** 
+**Link:** https://bhoamikhona.github.io/web-development-bootcamp/Section%2005/index.html
 ![1](https://user-images.githubusercontent.com/50435319/201473073-6a40da21-38e2-4184-bff9-f20ae09cdf71.PNG)
 
-**Link:**
+**Link:** https://bhoamikhona.github.io/web-development-bootcamp/Section%2005/mushroom-house.html
 ![2](https://user-images.githubusercontent.com/50435319/201473078-12a8da3d-d332-47a4-991c-6e3525b73a6f.PNG)
 
 ## Authors
