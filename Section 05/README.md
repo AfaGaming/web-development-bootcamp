@@ -3,6 +3,11 @@
 **About:** Taking inspiration from a web designer Seán Halpin's Portfolio Web Design and creating my own while learning intermediate CSS concepts.
 
 Seán Halpin's Web Design: https://dribbble.com/shots/1287004-Portfolio-Live/attachments/1287004?mode=media
+
+**Links to My Projects:**
+Version A: https://bhoamikhona.github.io/web-development-bootcamp/Section%2005/index.html
+
+Version B: https://bhoamikhona.github.io/web-development-bootcamp/Section%2005/mushroom-house.html
 ## Lessons Learned
 
 - Favicons
