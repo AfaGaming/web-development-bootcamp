@@ -20,11 +20,7 @@ Seán Halpin's Web Design: https://dribbble.com/shots/1287004-Portfolio-Live/att
 - Typography
 - CSS Font Properties: size (px, %, em, rem), color, font-family, text-decoration, line-height 
 - CSS Float & Clear
-## Demo
 
-Insert gif or link to demo
-
-https://replit.com/@bhoamikhona/password-generator#main.py
 ## Screenshots
 
 **Link:** 
