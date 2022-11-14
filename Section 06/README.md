@@ -24,12 +24,14 @@
 
 **Project A:** https://bhoamikhona.github.io/web-development-bootcamp/Section%2006/index.html
 
-**Project B:**
+**Project B:** https://bhoamikhona.github.io/web-development-bootcamp/Section%2006/yumyum.html
 
 ## Screenshots
 
+![1](https://user-images.githubusercontent.com/50435319/201648635-54c79fe6-9f43-4491-ac03-da365d3391f1.PNG)
 
 
+![2](https://user-images.githubusercontent.com/50435319/201648668-a5f3f22e-a971-4ca3-9101-11094e40f5f6.PNG)
 
 ## Authors
 
