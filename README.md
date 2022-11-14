@@ -2,14 +2,14 @@
 
 ## Sections
 
-[@Section 01: Front-End Web Development](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2001)
+[Section 01](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2001): Front-End Web Development
 
-[@Section 02: Introduction to HTML](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2002)
+[Section 02](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2002): Introduction to HTML
 
-[@Section 03: Intermediate HTML](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2003)
+[Section 03](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2003): Intermediate HTML
 
-[@Section 04: Introduction to CSS](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2004)
+[Section 04](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2004): Introduction to CSS
 
-[@Section 05: Intermediate CSS](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2005)
+[Section 05](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2005): Intermediate CSS
 
-
+[Section 06](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2006): Introduction to Bootstrap
