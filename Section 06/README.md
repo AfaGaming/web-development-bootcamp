@@ -18,11 +18,14 @@
 - Bootstrap Buttons & Fontawesome
 - CSS Transform Property & Rotate Function
 ## Wireframe
+![wireframe](https://user-images.githubusercontent.com/50435319/201647687-e0adc15a-3e25-4dd2-afa4-52337ed0b2cd.PNG)
+
 ## Demo
 
-Insert gif or link to demo
+**Project A:** https://bhoamikhona.github.io/web-development-bootcamp/Section%2006/index.html
 
-https://replit.com/@bhoamikhona/password-generator#main.py
+**Project B:**
+
 ## Screenshots
 
 
