@@ -34,7 +34,7 @@
 
 **Project B:** https://bhoamikhona.github.io/web-development-bootcamp/Section%2006/yumyum.html
 
-![2](https://user-images.githubusercontent.com/50435319/201648668-a5f3f22e-a971-4ca3-9101-11094e40f5f6.PNG)
+![2](https://user-images.githubusercontent.com/50435319/201648974-2498f31d-0d0f-4ce6-b2f4-6994480b4160.PNG)
 
 ## Authors
 
