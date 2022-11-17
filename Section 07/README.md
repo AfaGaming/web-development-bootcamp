@@ -11,12 +11,17 @@
 - Media Query Breakpoints
 ## Demo
 
-Insert gif or link to demo
+**Project 07A:** https://bhoamikhona.github.io/web-development-bootcamp/Section%2007/html.html
 
-https://replit.com/@bhoamikhona/password-generator#main.py
+**Project 07B:** https://bhoamikhona.github.io/web-development-bootcamp/Section%2007/yumyum.html
+
 ## Screenshots
 
+**Project 07A:** https://bhoamikhona.github.io/web-development-bootcamp/Section%2007/html.html
+![1](https://user-images.githubusercontent.com/50435319/202432439-e60f15ee-c286-4bb7-955b-8bb6cce8f8e6.PNG)
 
+**Project 07B:** https://bhoamikhona.github.io/web-development-bootcamp/Section%2007/yumyum.html
+![2](https://user-images.githubusercontent.com/50435319/202432507-1c297594-0154-4780-9cc2-936d1e044e36.PNG)
 
 
 ## Authors
