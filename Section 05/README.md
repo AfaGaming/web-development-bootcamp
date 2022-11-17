@@ -19,7 +19,6 @@ Version B: https://bhoamikhona.github.io/web-development-bootcamp/Section%2005/m
 - HTML Span Element
 - CSS Visibility Property
 - CSS Positioning: static, relative, absolute, fixed
-- z index
 - CSS text-align Property
 - Font Styling
 - Typography
