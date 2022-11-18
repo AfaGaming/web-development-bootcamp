@@ -13,3 +13,7 @@
 [Section 05](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2005): Intermediate CSS
 
 [Section 06](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2006): Introduction to Bootstrap
+
+[Section 07](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2007): Intermediate Bootstrap
+
+[Section 08](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2008): Web Design
