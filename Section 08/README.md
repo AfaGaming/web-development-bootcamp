@@ -24,7 +24,8 @@
 
 **Project 08B:** https://www.canva.com/design/DAFSPHgqWG8/86RINc6_Ft2QZdz5Fnty_Q/view?website#4:home
 
-![2](https://user-images.githubusercontent.com/50435319/202640799-580a319e-472a-4bac-85e9-12c07bc97080.PNG)
+![Home](https://user-images.githubusercontent.com/50435319/202640894-a31d7aeb-d1d9-4c7f-88de-35101bdf0b82.png)
+
 
 ## Authors
 
