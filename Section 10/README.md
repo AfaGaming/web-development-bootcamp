@@ -26,14 +26,6 @@ JS Who's Buying Lunch Challenge: https://replit.com/@bhoamikhona/Whos-Buying-Lun
 
 JS Fibonacci Sequence Generator: https://replit.com/@bhoamikhona/Fibonacci-Coding-Exercise#index.js
 
-
-
-
-## Screenshots
-
-
-
-
 ## Authors
 
 - [@bhoamikhona](https://github.com/bhoamikhona)
