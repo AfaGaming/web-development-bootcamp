@@ -34,14 +34,6 @@ JS Age In Weeks Challenge: https://replit.com/@bhoamikhona/Age-In-Weeks-Challeng
 
 JS BMI Calculator: https://replit.com/@bhoamikhona/BMI-Calculator#index.js
 
-
-
-
-## Screenshots
-
-
-
-
 ## Authors
 
 - [@bhoamikhona](https://github.com/bhoamikhona)
