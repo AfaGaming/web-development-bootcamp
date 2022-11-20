@@ -1,5 +1,5 @@
 
-# Section 09 - Introduction to Javascript ES6
+# Section 10 - Intermediate Javascript ES6
 
 **About:**  Further learning more advanced skills of Javascript ES6.
 ## Lessons Learned
