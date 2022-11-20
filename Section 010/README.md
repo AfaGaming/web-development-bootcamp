@@ -1,5 +1,5 @@
 
-# Section 09 - Introduction to Javascript ES6
+# Section 09 - Intermediate Javascript ES6
 
 **About:**  Further learning more advanced skills of Javascript ES6.
 ## Lessons Learned
@@ -25,14 +25,6 @@ JS Leap Year Challenge: https://replit.com/@bhoamikhona/Leap-year-challenge#inde
 JS Who's Buying Lunch Challenge: https://replit.com/@bhoamikhona/Whos-Buying-Lunch#index.js
 
 JS Fibonacci Sequence Generator: https://replit.com/@bhoamikhona/Fibonacci-Coding-Exercise#index.js
-
-
-
-
-## Screenshots
-
-
-
 
 ## Authors
 
