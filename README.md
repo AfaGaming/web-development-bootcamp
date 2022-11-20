@@ -20,4 +20,4 @@
 
 [Section 09](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2009): Introduction to Javascript ES6
 
-[Section 010](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%20010): Intermediate Javascript ES6
+[Section 10](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2010): Intermediate Javascript ES6
