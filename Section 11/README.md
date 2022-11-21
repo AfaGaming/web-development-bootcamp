@@ -1,7 +1,7 @@
 
 # Section 11 - The Document Object Model (DOM)
 
-**About:**  Learning how to implement JS in websites.
+**About:**  A theoretical section about how to implement JS in Websites.
 ## Lessons Learned
 
 - Inline JS
@@ -28,27 +28,6 @@
 - DOM textContent vs innerHTML
 - Manipulating HTML Element Attributes
 - DOM attribute Property, getAttribute(), setAttribute()
-
-
-
-
-
-## Demo
-
-JS Advance BMI Calculator: https://replit.com/@bhoamikhona/BMI-Calculator-Advanced#index.js
-
-JS Leap Year Challenge: https://replit.com/@bhoamikhona/Leap-year-challenge#index.js
-
-JS Who's Buying Lunch Challenge: https://replit.com/@bhoamikhona/Whos-Buying-Lunch#index.js
-
-JS Fibonacci Sequence Generator: https://replit.com/@bhoamikhona/Fibonacci-Coding-Exercise#index.js
-
-
-
-
-## Screenshots
-
-
 
 
 ## Authors
