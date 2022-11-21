@@ -1,7 +1,7 @@
 
 # Section 11 - The Document Object Model (DOM)
 
-**About:**  A theoretical section about how to implement JS in Websites.
+**About:**  A theoretical learning section about how to implement JS in Websites.
 ## Lessons Learned
 
 - Inline JS
