@@ -11,21 +11,22 @@
 }
 
 body {
-    background-color: #180047;
+    background-color: #11052C;
+    font-family: 'Montserrat';
+    font-weight: 400;
 }
 
 h1 {
-    margin: 30px;
-    font-family: 'Metamorphous', cursive;
-    /* text-shadow: 5px 0 #232931; */
-    font-size: 8rem;
-    color: #FE8EC4;
-    text-shadow:  -1px 0 #FB649B, 0 5px #FB649B, 5px 0 #FB649B, 0 -1px #FB649B, 5px 5px 5px #FB649B, 5px 5px 25px #FB649B, 5px 5px 5px #FB649B;
+    margin: 150px auto auto;
+    font-weight: 500;
+    font-size: 75px;
+    color: #E7E6E9;
+    text-shadow:  -1px 0 #FFFEF0, 0 1px #FFFEF0, 1px 0 #FFFEF0, 0 -1px #FFFEF0, 1px 1px 2px #FFFEF0, 0 0 25px #FFFEF0, 0 0 5px #FFFEF0;
 }
 
 p {
     font-size: 2rem;
-    color: #FE8EC4;
+    color: #403656;
     font-family: 'Noto Sans Tai Viet', sans-serif;
 }
 
@@ -35,7 +36,7 @@ img {
 
 footer {
     margin-top: 5%;
-    color: #F4BCD7;
+    color: #403656;
     text-align: center;
     font-family: 'Noto Sans Tai Viet', sans-serif;
 
