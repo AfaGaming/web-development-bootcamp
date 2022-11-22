@@ -1,0 +1,42 @@
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+
+}
+
+body {
+    background-color: #180047;
+}
+
+h1 {
+    margin: 30px;
+    font-family: 'Metamorphous', cursive;
+    /* text-shadow: 5px 0 #232931; */
+    font-size: 8rem;
+    color: #FE8EC4;
+    text-shadow:  -1px 0 #FB649B, 0 5px #FB649B, 5px 0 #FB649B, 0 -1px #FB649B, 5px 5px 5px #FB649B, 5px 5px 25px #FB649B, 5px 5px 5px #FB649B;
+}
+
+p {
+    font-size: 2rem;
+    color: #FE8EC4;
+    font-family: 'Noto Sans Tai Viet', sans-serif;
+}
+
+img {
+    width: 30%;
+}
+
+footer {
+    margin-top: 5%;
+    color: #F4BCD7;
+    text-align: center;
+    font-family: 'Noto Sans Tai Viet', sans-serif;
+
+}
