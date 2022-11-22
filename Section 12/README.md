@@ -5,7 +5,7 @@
 
 ## Demo
 
-** Demo Link: **
+** Demo Link: ** https://bhoamikhona.github.io/web-development-bootcamp/Section%2012/index.html
 
 ## Screenshots
 ![1](https://user-images.githubusercontent.com/50435319/203299991-bdeb93f3-523e-4d50-9218-9b71de8b5daf.PNG)
