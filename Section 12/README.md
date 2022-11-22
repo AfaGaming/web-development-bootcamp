@@ -14,7 +14,7 @@ Along with the Dicee game, I created a Crystal Ball webpage which draws inspirat
 ## Screenshots
 ![1](https://user-images.githubusercontent.com/50435319/203343425-f51ce05a-1c12-49f8-9851-16b94ec1f88e.PNG)
 
-![1](https://user-images.githubusercontent.com/50435319/203343460-7e59e85c-f03c-4293-aeef-30f75325591d.PNG)
+![1](https://user-images.githubusercontent.com/50435319/203392358-21d628df-3003-4ac0-a9a8-f6949f487fef.PNG)
 
 ## Authors
 
