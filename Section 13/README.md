@@ -18,20 +18,19 @@
 - JS Callback Functions and How to respond to events
 - Adding Animations to Websites
 
-
-
-
-
-
 ## Demo
 
+**Drum Kit Website:** https://bhoamikhona.github.io/web-development-bootcamp/Section%2013/index.html
 
-
-
+**Xylophone Keys Website:** https://bhoamikhona.github.io/web-development-bootcamp/Section%2013/xylophone.html
 
 ## Screenshots
 
+**Drum Kit Website:** https://bhoamikhona.github.io/web-development-bootcamp/Section%2013/index.html
+![1](https://user-images.githubusercontent.com/50435319/203777587-2c2f223a-82b8-4fd3-8691-c484be9b7735.PNG)
 
+**Xylophone Keys Website:** https://bhoamikhona.github.io/web-development-bootcamp/Section%2013/xylophone.html
+![2](https://user-images.githubusercontent.com/50435319/203777601-3f357131-32e2-4c46-b052-6359e0b98368.PNG)
 
 
 ## Authors
