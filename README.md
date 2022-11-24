@@ -25,3 +25,5 @@
 [Section 11](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2011): The Document Object Model (DOM)
 
 [Section 12](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2012): The Dicee Game
+
+[Section 13](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2013): Advanced Javascript ES6 and DOM Manipulation
