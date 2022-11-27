@@ -16,7 +16,7 @@
     - $("Tag").css("property") - get the property value
     - $("Tag").css("property", "value") - set the property to value passed
     - $("Tag").addClass("className1 className2") - add the passed class to the tag selected; Note: You can add multiple classes at once by seperating their names using a space character.
-    - $("Tag").remove("className") - remove the passed class from the tag selected
+    - $("Tag").removeClass("className") - remove the passed class from the tag selected
     - $("Tag").hasClass("className") - returns a boolean value stating whether the class passed is applied to the tag selected or not
 
 - Manipulating text with jQuery
