@@ -8,27 +8,13 @@ If the user messes up the sequence, then the game ends.
 ## Lessons Learned
 - This game is built using all the knowledge acquired in previous javascript and jquery sections learned.
 
-
-
-
-
-
-
-
-
-
-
-
 ## Demo
-
-
-
+**Project Demo:** https://bhoamikhona.github.io/web-development-bootcamp/Section%2015/simon.html
 
 
 ## Screenshots
 
-
-
+![1](https://user-images.githubusercontent.com/50435319/204157931-89f43301-b54c-4901-8b32-fc0dc3c2badb.PNG)
 
 ## Authors
 
