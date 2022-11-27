@@ -54,27 +54,6 @@
         - it will perform all the animations in the above example one after the other
 
 
-
-
-
-
-
-
-
-
-
-
-## Demo
-
-
-
-
-
-## Screenshots
-
-
-
-
 ## Authors
 
 - [@bhoamikhona](https://github.com/bhoamikhona)
