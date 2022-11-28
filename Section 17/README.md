@@ -8,26 +8,6 @@
 - List of Backend Languages and their frameworks
 - Importance of Backend Development
 
-
-
-
-
-
-
-
-
-
-## Demo
-
-
-
-
-
-## Screenshots
-
-
-
-
 ## Authors
 
 - [@bhoamikhona](https://github.com/bhoamikhona)
