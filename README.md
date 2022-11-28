@@ -31,3 +31,7 @@
 [Section 14](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2014): jQuery
 
 [Section 15](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2015): The Simon Game
+
+[Section 16](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2016): The Unix Command Line
+
+[Section 17](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2017): Introduction to Backend Web Development
