@@ -29,29 +29,6 @@
     - pwd - print working directory (pwd), this command prints the path of the directory you are currently in
     - rm -r 'directory name'/ - this allows you to delete the directory present in the current Directory
 
-
-
-
-
-
-
-
-
-
-
-
-
-## Demo
-
-
-
-
-
-## Screenshots
-
-
-
-
 ## Authors
 
 - [@bhoamikhona](https://github.com/bhoamikhona)
