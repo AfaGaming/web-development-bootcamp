@@ -19,26 +19,6 @@
 - NPM (Node Package Manager) and installing external node modules.
     - npm init - this command initializes npm in the terminal
     
-
-
-
-
-
-
-
-
-
-## Demo
-
-
-
-
-
-## Screenshots
-
-
-
-
 ## Authors
 
 - [@bhoamikhona](https://github.com/bhoamikhona)
