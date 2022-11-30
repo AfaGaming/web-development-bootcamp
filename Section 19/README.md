@@ -4,6 +4,10 @@
 **About:** Introduction to Express.js. Learning all about a framework for Node.js which is basically a bunch of code that somebody else wrote, that adds extra features and helps to organize and structure code, specifically for web applications built with Node. In this section, I built a real server using Node and Express to see how I could get the server to start running code on the server side in order to learn how to build a proper backend for websites.
 
 **Project:** In this section, I built a calculator using Command Line, Node.js, and Express.js to build a web application website.
+
+Note: These are not all the files, you will have to install node and npm first to be able to acutally run these files on a server.
+
+
 ## Lessons Learned
 - npm install express - Instal Express.js
 - Listening to a Port
