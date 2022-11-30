@@ -14,18 +14,9 @@
 - Processing Post Requests with Body Parser
 - bodyparser.urlencoded
 
-
-
 ## Demo
 
-
-
-
-
-## Screenshots
-
-
-
+![demo](https://user-images.githubusercontent.com/50435319/204901971-bcfd4714-f073-4afb-a1ee-1aec38bcb087.gif)
 
 ## Authors
 
