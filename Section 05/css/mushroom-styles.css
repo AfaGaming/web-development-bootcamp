@@ -59,6 +59,10 @@ hr {
     padding-top: 100px;
 }
 
+.mushroom-house {
+    display: block;
+}
+
 .middle-container {
     margin: 100px 0;
 }
