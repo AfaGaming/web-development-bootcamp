@@ -39,3 +39,13 @@
 [Section 18](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2018): Node.js
 
 [Section 19](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2019): Express.js
+
+[Section 20](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2020): API
+
+[Section 21](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2021): Git, GitHub, and Version Control
+
+[Section 22](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2022): EJS
+
+[Section 23](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2023): Daily Journal Website
+
+[Section 24](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2024): Databases
