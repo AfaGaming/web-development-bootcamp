@@ -51,18 +51,6 @@
 - Forking & Pull Requests
     - Forking is simply making a copy or a duplicate of a remote repository and putting it under your own GitHub account.
         - Note: Forking a repository creates a copy of the original repository on our GitHub account while Cloning a repository creates a copy of the original repository on our local machine.
-    
-
-## Demo
-
-
-
-
-
-## Screenshots
-
-
-
 
 ## Authors
 
