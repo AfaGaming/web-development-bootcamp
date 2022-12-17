@@ -24,17 +24,8 @@
 - Understanding Node Module Exports: How to Pass Functions and Data between Files
 
 ## Demo
-
-
-
-
-
-## Screenshots
-
-
-
+![to-do-app-demo](https://user-images.githubusercontent.com/50435319/208234319-0e6ab003-d565-4b51-b8ea-9a70161535a6.gif)
 
 ## Authors
-
 - [@bhoamikhona](https://github.com/bhoamikhona)
 
