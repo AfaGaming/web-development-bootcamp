@@ -26,13 +26,11 @@
 
 ## Demo
 
+Weather:
+![weather web application demo](https://user-images.githubusercontent.com/50435319/208228549-72bcf985-cb9a-488f-a9b8-efd0d1c8fdc3.gif)
 
-
-
-
-## Screenshots
-
-
+Newsletter:
+![newsletter demo](https://user-images.githubusercontent.com/50435319/208228520-fae9035a-3514-451e-8bcb-58dfeab4d7d6.gif)
 
 
 ## Authors
