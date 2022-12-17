@@ -13,17 +13,6 @@
 - NoSQL might have a lot of repition in its data but, in SQL, if you create multiple tables and connect them appropriately, you can avoid repitition
 - NoSQL has more scalability in comparison to SQL
 
-## Demo
-
-
-
-
-
-## Screenshots
-
-
-
-
 ## Authors
 
 - [@bhoamikhona](https://github.com/bhoamikhona)
