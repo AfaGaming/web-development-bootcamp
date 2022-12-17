@@ -1,0 +1,54 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #10000E;
+}
+
+h1 {
+  color: #BA9043;
+}
+
+label {
+  color: #BA9043;
+}
+
+.footer-text {
+  color: #BA9043;
+}
+
+.subscribe-button {
+  color: #10000E;
+  background-color: #BA9043;
+}
+
+.form-signup {
+  max-width: 330px;
+  padding: 15px;
+}
+
+.form-signup .form-floating:focus-within {
+  z-index: 2;
+}
+
+.top {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.middle {
+  margin-bottom: -1px;
+  border-radius: 0;
+}
+
+.bottom {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}

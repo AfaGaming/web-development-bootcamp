@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #10000E;
+    color: #BA9043;
+}
+
+
+.parent {
+    /* margin-top: 15%; */
+    margin: 10% auto;
+    text-align: center;
+    max-width: 330px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.child {
+    display: inline-block;
+    text-align: left;
+}
+
+.resubscribe-button {
+    color: #10000E;
+    background-color: #BA9043;
+}
