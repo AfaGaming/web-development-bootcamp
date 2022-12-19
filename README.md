@@ -49,3 +49,5 @@
 [Section 23](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2023): Daily Journal Website
 
 [Section 24](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2024): Databases
+
+[Section 25](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2025): SQL
