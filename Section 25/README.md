@@ -36,18 +36,6 @@
     - REFERENCE KEY
     - INNER JOIN
     
-
-## Demo
-
-
-
-
-
-## Screenshots
-
-
-
-
 ## Authors
 
 - [@bhoamikhona](https://github.com/bhoamikhona)
