@@ -81,17 +81,6 @@
             - use connect method to connect to the server
     - NOTE: You can use ```CTRL + C``` in your terminal to shut down your mongod connection. However, if you have closed down terminal and forgot to close your mongod connectiong, you might get an error. In this case, you will have to manually shut down the mongod process. First open a fresh terminal, then type ```sudo pkill -f mongod``` now, enter your windows/mac password, open a new terminal and you should be ablt run ```mongod``` command again.
 
-## Demo
-
-
-
-
-
-## Screenshots
-
-
-
-
 ## Authors
 
 - [@bhoamikhona](https://github.com/bhoamikhona)
