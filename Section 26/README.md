@@ -1,0 +1,98 @@
+
+# Section 26 - MongoDB
+
+**About:** This section is all about introduction to MongoDB, installing it and learning CRUD commands as well as how to use MongoDB with Node.js.
+## Lesson Learned
+- Command Line:
+    - ```sudo mv sourcePath destinationPath``` - this command allows you to move a file from the source file path to destination path.
+    - ```npm init -y``` - the y flag here says yes to everything and when you hit enter, you will see that we've initialized our npm and accepted all of the defaults automatically just by using the y flag.
+- CRUD
+    - Create
+        - After connecting to your database using Mongosh, you can see which database you are using by using command ```db``` in your terminal.
+        - To see all available databases, in your terminal type ```show dbs```.
+        - You can change or create a new database by typing ```use``` then the name of the database.
+            - e.g. ```use blog```
+            - Note: If you just created database using ```use``` then if you type ```show dbs``` in your terminal, blog will not be listed. This is because the database is empty. An empty database is essentially non-existant.
+        - You can create a collection using th ```createCollection()``` database method.
+            - e.g. ```db.createCollection("posts")```
+        - You can also create a collection during insert process.
+            - e.g. Here, we are assuming ```object``` is a valid Javascript object containing post data:
+                ```db.posts.insertOne(object)```
+        - Insert Documents
+            - There are 2 methods to insert documents into a MongoDB database.
+                - ```insertOne()``` This method inserts a single object into the database.
+                    - Note: When typing in shell, after opening an object with curly braces "{" you can press enter to start a new line in the editor without executing the command. The command will execute when you press enter after closing the braces.
+                - e.g. ```db.posts.insertOne({title: "Post 1", body: "Post Body", category: "News", likes: 1, tags: ["news", "events"], date: Date()})```
+                    - Note: If you try to insert documents into a collection that does not exist, MongoDB will create the collection automatically.
+                - ```insertMany()``` To insert multiple documents at once, use the insertMany() method. This method inserts an array of objects into the databse.
+                - e.g. ```db.posts.insertMany([{title:"Post 2", body: "post body}, {title: "post 3", body: "post body"}])```
+    - Read
+        - Find Data
+            - There are two methods to find and select data from MongoDB collections, ```find()``` and ```findOne()```
+            - ```find()``` To select data from a collection in MongoDB, we can use this method. It accepts a query object. If left empty, all documents will be returned.
+                - e.g. ```db.posts.find()```
+            - ```findOne()``` To select only one document, we can use this method. This method accepts a query object. If left empty, it will return the first document it finds.
+            - Note: This method only returns the first match it finds.
+            - e.g. ```db.posts.findOne()```
+        - Querying Data
+            - To query, or filter data, we can include a query in our ```find()``` or ```findOne()``` methods.
+                - e.g. ```db.posts.find({category: "News"})```
+        - Projection
+            - Both find methods accept a second parameter called projection.
+            - This parameter is an object that decribes which fields to include in the resules.
+            - Note: This parameter is optional. If omitted, all fields will be included in the results.
+            - e.g. ```db.posts.find({}, {title: 1, date: 1})
+            - Note: ```_id``` field is also included. This field is always included unless specifically excluded.
+            - We use '1' to include a field and '0' to exclude a field.
+            - e.g. ```db.posts.find({}, {_id: 0, title: 1, date: 1})
+            - Note: You cannot use both 0 and 1 in the same object. The only exception is the _id field. You should either specify the fields you would like to include or the fields you would like to exclude.
+    - Update
+        - To update an existing document we can use the ```updateOne()``` or ```updateMany()``` methods.
+        - The first parameter is a query object to define which document or documents should be updated.
+        - The second parameter is an object defining the updated data.
+        - ```updateOne()``` This method will update the first document that is found matching the provided query.
+        - e.g. updating likes of post 1
+            ```db.posts.updateOne({title: "Post 1"}, {$set: {likes: 3}})```
+        - If you would like to insert the document if it is not found, you can use the ```upsert``` option
+            - e.g. ```db.posts.updateOne({title: "Post 5"}, {$set: {title: "Post 5", body: "post body", category: "event", likes: 6, tags: ["news", "events], date: Date()}}, {upsert: true})```
+        - ```updateMany()``` This method will update all documents that match the provided query.
+            - e.g. update likes on all documents by 1. For this we will use the $inc (increment) operator:
+                ```db.posts.updateMany({}, {$inc: {likes" 1}})```
+    - Destroy
+        - We can delete documents by using the methods: ```deleteOne()``` or ```deleteMany()```
+        - These methods accept a query object. The matching documents will be deleted.
+        - ```deleteOne()``` This method will delete the first document that matches the query provided.
+            - e.g. ```db.posts.deleteOne({title: "Post 3"})```
+        - ```deleteMany()``` This method will delete all documents that match the query provided.
+            - e.g. ```db.posts.deleteMany({category: "History"})```
+- Integrating MongoDB database with Node.js
+    - There are two ways to connect your Node.js App to MongoDB Database.
+        - 1. MongoDB native driver
+        - 2. Object Document Matter (ODM) that is called Mongoose.
+
+    - MongoDB using Native Driver
+        - To use the native driver, we will first have to install the ```mongodb``` package in our Node.js project.
+        - ```npm install mongodb``` this command allows you to do so.
+        - Steps for Database Connection
+            - require MongoDB
+            - create a connection URL
+            - create a new database
+            - create a new mongoDB client
+            - use connect method to connect to the server
+    - NOTE: You can use ```CTRL + C``` in your terminal to shut down your mongod connection. However, if you have closed down terminal and forgot to close your mongod connectiong, you might get an error. In this case, you will have to manually shut down the mongod process. First open a fresh terminal, then type ```sudo pkill -f mongod``` now, enter your windows/mac password, open a new terminal and you should be ablt run ```mongod``` command again.
+
+## Demo
+
+
+
+
+
+## Screenshots
+
+
+
+
+## Authors
+
+- [@bhoamikhona](https://github.com/bhoamikhona)
+
