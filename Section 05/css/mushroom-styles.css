@@ -9,14 +9,13 @@ body {
 h1 {
     color: #FBE7E0;
     font-size: 5.625rem;
-    margin: 3.125rem auto 0 auto;
-    font-family: 'Sacramento', cursive;
-    /* font-family: 'Fraunces', serif; */
-    line-height: 2;
+    margin: 0 auto;
+    font-family: 'Playfair Display', serif;
+    /* line-height: 2; */
+    text-align: right;
 }
 
-h2 {
-    
+h2 {  
     font-size: 2.5rem;
     font-family: 'Montserrat', sans-serif;
     color: #1D0D4B;
@@ -56,16 +55,34 @@ hr {
 .top-container {
     background-color: #120134;
     position: relative;
-    padding-top: 100px;
+    /* padding-top: 100px; */
 }
 
-.mushroom-house {
+.title-text {
+    position: absolute;
+    margin-left: 70%;
+    margin-top: 5%;
     display: block;
-    margin: 0 auto;
+}
+
+.title-img {
+    width: 100%;
+    display: block;
+    position: relative;
+}
+
+.programmer {
+    color: #FBE7E0;
+    font-size: 1.5rem;
+    font-family: 'Playfair Display', serif;
+    text-align: right;
 }
 
 .middle-container {
     margin: 100px 0;
+    background-color: #ffffff;
+    z-index: 1;
+    position: relative;
 }
 
 .bottom-container {
