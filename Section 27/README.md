@@ -18,18 +18,6 @@
 - Updating and Deleting Data using Mongoose
 - Establishing Relationships and Embedding Document using Mongoose
 
-
-## Demo
-
-
-
-
-
-## Screenshots
-
-
-
-
 ## Authors
 
 - [@bhoamikhona](https://github.com/bhoamikhona)
