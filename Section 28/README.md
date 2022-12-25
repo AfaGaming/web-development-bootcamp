@@ -1,5 +1,5 @@
 
-# Section 27 - Adding Database to Website
+# Section 28 - Putting Everything Together
 
 **About:** In this section, I further developed the To Do Web App from Section 22. I added a MongoDB Database to it in order to persist data.
 ## Lesson Learned
