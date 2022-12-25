@@ -55,3 +55,5 @@
 [Section 26](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2026): MongoDB
 
 [Section 27](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2027): Mongoose
+
+[Section 28](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2028): Putting Everything Together
