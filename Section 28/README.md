@@ -3,32 +3,15 @@
 
 **About:** In this section, I further developed the To Do Web App from Section 22. I added a MongoDB Database to it in order to persist data.
 ## Lesson Learned
-- Mongoose is an ODB or an Object Document Mapper. It will allow your Node.js app which speaks the language of Javascript objects to be able to talk to your MongoDB database which speaks the language of documents and collections and databases. The main objective of this framework is to simplify the writing of validation code, the writing of your business logic boilerplate and just to make the code shorter and easier to work with.
-- ```db.dropDatabase()``` - This command allows you to delete the entire database you are currently using.
-- ```npm i mongoose``` - Use this command to install mongoose in your Node.js project.
-- ```show collections``` - this command allows you to see all the collections in a mongodb database
-- Using Mongoose to Connect Javascript App to MongoDB database
-- Creating Document Schema
-- Saving new data in the database using document Schema.
-- Reading from Database using Mongoose
-- Closing the database connection
-- Data Validation with Mongoose
-    - Numbers' min and max validators
-    - Required validator
-- Updating and Deleting Data using Mongoose
-- Establishing Relationships and Embedding Document using Mongoose
-
-
-## Demo
-
-
-
-
+- Rendering Database Items in the ToDoList App
+- Adding New Items to the ToDoList Database
+- Deleting Items from the ToDoList Database
+- Creating Custom Lists using Express Route Parameters
+- Adding New Items to the Custom ToDo Lists
+- Revisiting Lodash and Deleting Items from Custom ToDo Lists
 
 ## Screenshots
-
-
-
+![07](https://user-images.githubusercontent.com/50435319/209467097-6032580b-171a-47fc-9ae3-3ef43cd5b390.png)
 
 ## Authors
 
