@@ -59,3 +59,5 @@
 [Section 28](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2028): Putting Everything Together
 
 [Section 29](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2029): Deploying To Do Web App with Database using Cyclic
+
+[Section 30](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2030): Adding Database using MongoDB and Mongoose to Daily Journal Website
