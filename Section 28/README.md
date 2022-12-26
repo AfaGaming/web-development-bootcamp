@@ -1,7 +1,7 @@
 
 # Section 28 - Putting Everything Together
 
-**About:** In this section, I further developed the To Do Web App from Section 22. I added a MongoDB Database to it in order to persist data.
+**About:** In this section, I further developed the To Do Web App from Section 22. I added a MongoDB Database to it in order to persist data. Along with the generic "Today" To Do List, this app allows you to create custom ToDo Lists by using Express Route Parameters. In order to make a custom list, all you have to do is type "/customListName" after the url. This customListName can be anything you like. e.g. Work or School.
 ## Lesson Learned
 - Rendering Database Items in the ToDoList App
 - Adding New Items to the ToDoList Database
