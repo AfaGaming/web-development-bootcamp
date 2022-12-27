@@ -40,16 +40,6 @@
 - PUT a specific document
 - PATCH a specific document
 - DELETE a specific document
-## Demo
-
-
-
-
-
-## Screenshots
-
-
-
 
 ## Authors
 
