@@ -61,3 +61,5 @@
 [Section 29](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2029): Deploying To Do Web App with Database using Cyclic
 
 [Section 30](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2030): Adding Database using MongoDB and Mongoose to Daily Journal Website
+
+[Section 31](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2031): RESTful API
