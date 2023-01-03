@@ -1,0 +1,30 @@
+<%- include('partials/header') %>
+<%- include('partials/navbar') %>
+
+<% if(secrets.length != 0){ %>
+  <div class="centered">
+    <img src="images\key.svg" class="key-img" alt="key-image">
+    <div class="form-signInUp w-100 m-auto">
+      <h1>Secrets</h1>
+      <p>Don't keep your secrets, share them anonymously!</p>
+      <form action="/delete" method="post">
+          <select class="form-select form-select-lg text-center" name="secret">
+            <% secrets.forEach(function(secret){ %>
+              <option value="<%= secret %>"><%= secret %></option>
+            <% }); %>
+          </select>
+        <button class="w-100 btn btn-lg btn-danger mt-2" type="submit">Delete</button>
+      </form>
+    </div>
+  </div>
+  <%  } else { %>
+  <div class="centered">
+    <img src="images\key.svg" class="key-img" alt="key-image">
+    <div class="form-signInUp w-100 m-auto"></div>
+      <h1>You Have No Secrets To Delete</h1>
+      <a class="btn btn-lg btn-light" href="/submit" role="button">Share Your Secret</a>
+      <a class="btn btn-lg btn-dark" href="/secrets" role="button">Read Everyone's Secrets</a>
+    </div>
+  </div>
+  <%  } %>
+  <%- include('partials/footer') %>
