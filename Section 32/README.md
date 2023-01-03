@@ -5,7 +5,6 @@
 
 **Project:** There is a app called [Whisper](https://apps.apple.com/us/app/whisper-share-express-meet/id506141837) that you might have come across and it is a really simple concept. Basically, it allows people to submit their secrets anonymously. So, whatever they post, it is not associated with an email or a username and it means that people can express themselves freely. It is quite a fun website and this is what I tried and replicated in this project. The structure of my website is simple, it has a home page which has two buttons that allows the user to either go towards registration or towards login. Once the user has registered or logged in, and they have been authenticated then they are able to access the secrets page.
 
-**Tech Used:** HTML 5, CSS 3, Bootstrap 4, JS ES6, Command Line Terminal, Node.js, Express.js, Git, GitHub, EJS, MongoDB, Mongoose, 
 ## Lesson Learned
 - Levels of Authentication:
     - Level 1: Storing the Username and password in Database as plain text
@@ -32,16 +31,14 @@
 - OAuth: Open Autherization
 - Implement Sign In with Google
 - Letting Users Post
-## Demo
-
-
-
-
-
 ## Screenshots
 
-
-
+![1](https://user-images.githubusercontent.com/50435319/210315648-887e5584-f1e5-44dc-8f50-034e9130d525.PNG)
+![2](https://user-images.githubusercontent.com/50435319/210315651-838504ae-d4ab-459a-bd03-a62f3453f957.PNG)
+![3](https://user-images.githubusercontent.com/50435319/210315654-2afd8ee8-7111-4ee5-9805-0c280b17bede.PNG)
+![4](https://user-images.githubusercontent.com/50435319/210315658-8a623453-d0ba-4296-8580-d67643712a11.PNG)
+![5](https://user-images.githubusercontent.com/50435319/210315663-8df37a92-2fca-478a-b481-07c0a81b4817.PNG)
+![6](https://user-images.githubusercontent.com/50435319/210315667-70bf09b6-a87b-4f81-9274-5ce19880b6ab.PNG)
 
 ## Authors
 
