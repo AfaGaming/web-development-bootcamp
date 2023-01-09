@@ -7,9 +7,13 @@ const session = require("express-session");
 const passport = require("passport");
 const passportLocalMongoose = require("passport-local-mongoose");
 const GoogleStrategy = require('passport-google-oauth20').Strategy;
-const findOrCreate = require("mongoose-findorcreate")
+const findOrCreate = require("mongoose-findorcreate");
+const MongoStore = require("connect-mongo");
 
 const app = express();
+
+const mongodb = "mongodb://127.0.0.1:27017/userDB"
+const mongodbNet = "mongodb+srv://admin-bhoami:"+ process.env.PASSWORD +"@secretscluster.uztbzho.mongodb.net/userDB";
 
 app.use(express.static(__dirname + "/public/"));
 app.set('view engine', 'ejs');
@@ -27,7 +31,10 @@ app.use(session({
         httpOnly: true,
         secure: false,
         maxAge: 365 * 24 * 60 * 60 * 1000
-    }
+    },
+    store: MongoStore.create({
+        mongoUrl: mongodbNet
+    })
 }));
 
 // Initializing Passport
@@ -36,10 +43,6 @@ app.use(passport.session());
 
 // Connecting to MongoDB using Mongoose
 mongoose.set('strictQuery', true);
-
-const mongodb = "mongodb://127.0.0.1:27017/userDB"
-
-const mongodbNet = "mongodb+srv://admin-bhoami:"+ process.env.PASSWORD +"@secretscluster.uztbzho.mongodb.net/userDB";
 
 mongoose.connect(mongodbNet, function(err){
     if (err) {
