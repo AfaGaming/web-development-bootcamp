@@ -11,7 +11,7 @@ const findOrCreate = require("mongoose-findorcreate")
 
 const app = express();
 
-app.use(express.static("public"));
+app.use(express.static(__dirname + "/public/"));
 app.set('view engine', 'ejs');
 app.use(bodyParser.urlencoded({
     extended: true
@@ -21,7 +21,13 @@ app.use(bodyParser.urlencoded({
 app.use(session({
     secret: process.env.SECRET,
     resave: false,
-    saveUninitialized: false
+    saveUninitialized: false,
+    cookie: {
+        path: '/',
+        httpOnly: true,
+        secure: false,
+        maxAge: 365 * 24 * 60 * 60 * 1000
+    }
 }));
 
 // Initializing Passport
@@ -33,12 +39,19 @@ mongoose.set('strictQuery', true);
 
 const mongodb = "mongodb://127.0.0.1:27017/userDB"
 
-mongoose.connect(mongodb, function(err){
+const mongodbNet = "mongodb+srv://admin-bhoami:"+ process.env.PASSWORD +"@secretscluster.uztbzho.mongodb.net/userDB";
+
+mongoose.connect(mongodbNet, function(err){
     if (err) {
         console.log('Unable to connect to MongoDB');
         console.log(err);
     } else {
-        console.log('Successfully connected to MongoDB');
+        const PORT = process.env.PORT || 3000;
+
+        app.listen(PORT, function() {
+            console.log(`Server started on Port ${PORT}`);
+            console.log('Successfully connected to MongoDB');
+        }); 
     }
 });
 
@@ -73,8 +86,8 @@ passport.deserializeUser(function(id, done) {
 passport.use(new GoogleStrategy({
     clientID: process.env.GOOGLE_CLIENT_ID,
     clientSecret: process.env.GOOGLE_CLIENT_SECRET,
-    callbackURL: "http://localhost:3000/auth/google/secrets"
-  },
+    callbackURL: "https://upset-gilet-lion.cyclic.app/auth/google/secrets", //"http://localhost:3000/auth/google/secrets"
+    },
   function(accessToken, refreshToken, profile, cb) {
     User.findOrCreate({username: profile.emails[0].value, googleId: profile.id }, function (err, user) {
       return cb(err, user);
@@ -219,23 +232,6 @@ app.route("/delete")
         }
     })
     .post(function(req, res) {
-        // if (req.isAuthenticated()) {
-        //     User.findById(req.user.id, function(err, foundUser) {
-        //         const userSecretArray = foundUser.secret;
-        //         console.log(userSecretArray);
-        //         // const deleteRequestedSecret = 
-        //         console.log(req.body.value);
-        //         // console.log(foundUser.secret.indexOf(req.body.secret));
-        //         // foundUser.secret.splice(foundUser.secret.indexOf(req.body.secret), 1);
-        //         // foundUser.save(function(err) {
-        //         //     if (!err) {
-        //         //         res.redirect("/secrets");
-        //         //     }
-        //         // });
-        //     });
-        // } else {
-        //     res.redirect("/signin");
-        // }
         if(req.isAuthenticated()){
             User.findById(req.user.id, function (err,foundUser){
               foundUser.secret.splice(foundUser.secret.indexOf(req.body.secret),1);
@@ -249,7 +245,3 @@ app.route("/delete")
             res.redirect("/signin");
           }
     });
-
-app.listen(3000, function() {
-    console.log("Server started on Port 3000");
-});
