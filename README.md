@@ -63,3 +63,7 @@
 [Section 30](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2030): Adding Database using MongoDB and Mongoose to Daily Journal Website
 
 [Section 31](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2031): RESTful API
+
+[Section 32](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2032): Authentication & Security
+
+[Section 33](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2033): React.js
