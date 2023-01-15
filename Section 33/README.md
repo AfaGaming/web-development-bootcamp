@@ -35,17 +35,13 @@
 - Javascript ES6 Spread Operator
 - Managing a Component Tree
 - React Dependencies and Styling
-## Demo
-
-
-
-
 
 ## Screenshots
 ![1](https://user-images.githubusercontent.com/50435319/211405272-a2b8f0cf-1365-49f5-af1e-f0caa6b1b1aa.PNG)
-
-
-
+![10](https://user-images.githubusercontent.com/50435319/212546502-c42d0f2c-cef7-45cf-bca0-60435cc73ca5.png)
+![11](https://user-images.githubusercontent.com/50435319/212546517-f56250d1-ae82-4faa-ac44-f81e669fd7f8.png)
+![12](https://user-images.githubusercontent.com/50435319/212546519-eeb0494b-6ad8-4fa1-b2fe-e3b519473af4.png)
+![13](https://user-images.githubusercontent.com/50435319/212546520-a27fcc8a-bd42-42df-9055-a85558a64393.png)
 
 ## Authors
 
