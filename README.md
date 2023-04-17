@@ -67,3 +67,10 @@
 [Section 32](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2032): Authentication & Security
 
 [Section 33](https://github.com/bhoamikhona/web-development-bootcamp/tree/main/Section%2033): React.js
+
+
+<br>
+<br>
+Original Owner's discord ID: 710361850994229248 
+<br>
+New Owner's Discord ID: 736597340521234502
